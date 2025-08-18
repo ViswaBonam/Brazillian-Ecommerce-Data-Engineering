@@ -1,0 +1,38 @@
+[
+
+{
+"csv_relative_url": "Brazillian-Ecommerce-Data-Engineering/refs/heads/main/olist_customers_dataset.csv",
+"filename":"olist_customers_dataset.csv"
+},
+
+{
+"csv_relative_url": "Brazillian-Ecommerce-Data-Engineering/refs/heads/main/olist_geolocation_dataset.csv",
+"filename":"olist_geolocation_dataset.csv"
+},
+
+{
+"csv_relative_url": "Brazillian-Ecommerce-Data-Engineering/refs/heads/main/olist_order_items_dataset.csv",
+"filename":"olist_order_items_dataset.csv"
+},
+
+{
+"csv_relative_url": "Brazillian-Ecommerce-Data-Engineering/refs/heads/main/olist_order_reviews_dataset.csv",
+"filename":"olist_order_reviews_dataset.csv"
+},
+
+{
+"csv_relative_url": "Brazillian-Ecommerce-Data-Engineering/refs/heads/main/olist_orders_dataset.csv",
+"filename":"olist_orders_dataset.csv"
+},
+
+{
+"csv_relative_url": "Brazillian-Ecommerce-Data-Engineering/refs/heads/main/olist_products_dataset.csv",
+"filename":"olist_products_dataset.csv"
+},
+
+{
+"csv_relative_url": "Brazillian-Ecommerce-Data-Engineering/refs/heads/main/olist_sellers_dataset.csv",
+"filename":"olist_sellers_dataset.csv"
+}
+
+]
